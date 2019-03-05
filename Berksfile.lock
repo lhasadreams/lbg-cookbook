@@ -1,0 +1,7 @@
+DEPENDENCIES
+  lbg-cookbook
+    path: .
+    metadata: true
+
+GRAPH
+  lbg-cookbook (0.1.0)
