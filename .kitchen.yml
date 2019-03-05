@@ -18,8 +18,8 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[lbg-cookbook::default]
+      - recipe[ubs-cookbook::default]
     verifier:
       inspec_tests:
-        - ../lbg-profile
+        - ../ubs-profile
     attributes:

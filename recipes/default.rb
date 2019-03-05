@@ -1,10 +1,10 @@
 #
-# Cookbook:: lbg-cookbook
+# Cookbook:: ubs-cookbook
 # Recipe:: default
 #
 # Copyright:: 2019, The Authors, All Rights Reserved.
 
-# Create the LBG Security file
+# Create the UBS Security file
 case node['os']
 when 'linux'
   file '/lbgcheck' do
