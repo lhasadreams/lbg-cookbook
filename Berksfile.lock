@@ -4,4 +4,4 @@ DEPENDENCIES
     metadata: true
 
 GRAPH
-  lbg-cookbook (0.1.0)
+  lbg-cookbook (0.1.1)
