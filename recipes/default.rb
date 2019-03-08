@@ -8,9 +8,9 @@
 case node['os']
 when 'linux'
   file '/lbgcheck' do
-      owner 'root'
-      group 'root'
-      mode '0755'
-      action :create
+    owner 'root'
+    group 'root'
+    mode '0755'
+    action :create
   end
 end

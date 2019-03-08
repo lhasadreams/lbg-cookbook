@@ -1,5 +1,5 @@
 # lbg-cookbook
 
-TODO: Enter the cookbook description here.
+A cookbook to generate a security file
 
 # lbg-cookbook
