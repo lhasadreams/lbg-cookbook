@@ -13,4 +13,11 @@ when 'linux'
     mode '0755'
     action :create
   end
+
+  # package 'telnet'  do
+  #   action :remove
+  # end
+
+  package 'telnet'
 end
+
