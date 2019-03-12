@@ -7,7 +7,7 @@
 # Create the UBS Security file
 case node['os']
 when 'linux'
-  file '/lbgcheck' do
+  file '/ubscheck' do
     owner 'root'
     group 'root'
     mode '0755'

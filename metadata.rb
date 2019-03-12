@@ -4,7 +4,7 @@ maintainer_email 'adrian@chef.io'
 license 'All Rights Reserved'
 description 'Installs/Configures lbg-cookbook'
 long_description 'Installs/Configures lbg-cookbook'
-version '0.1.4'
+version '0.1.5'
 chef_version '>= 13.0'
 supports 'linux'
 
