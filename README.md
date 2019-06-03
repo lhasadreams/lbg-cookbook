@@ -1,6 +1,6 @@
-# lbg-cookbook
+# ubs-cookbook
 
 A cookbook to generate a security file
 
-# lbg-cookbook
+# ubs-cookbook
 # UbS Demo Comment
